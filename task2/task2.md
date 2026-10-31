@@ -14,7 +14,8 @@
 ███████╗ ███████╗
 ╚══════╝ ╚══════╝
    欢迎来到 ZYH 的专属终端！
-
+[截图：](zz.png)
 ## 3. 安装与使用
-source ~/.bashrc
+chmod +x zz-terminal.sh
+source ~/zz.sh
 
